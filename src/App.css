@@ -1,0 +1,56 @@
+.link{
+  background-color: grey;
+  padding:15px;
+}
+.link a{
+  color:white;
+  padding:8px;
+  text-decoration: none;
+}
+.home h1{
+  color:red;
+  font-size: 30px;
+}
+.container{
+  display:flex;
+  width:900px;
+  border:1px solid grey;
+}
+.image{
+  width:55%;
+
+}
+.image img{width:500px;
+  height:400px;
+}
+.home{
+  width:45%;
+}
+.product img{
+  width:300px;
+  height:300px;
+}
+.productlist{
+  display: flex;
+  padding:5px;
+}
+.center{
+  text-align: center;
+}
+.productlist{
+  display: flex;
+  flex-wrap: wrap;
+}
+.Btn{
+  background-color: blue;
+  border-radius: 3px;
+  color:white;
+  margin:8px;
+  padding:8px;
+}
+.Button{
+  color:black;
+  margin:8px;
+  padding:8px;
+  border-radius: 3px;
+}
